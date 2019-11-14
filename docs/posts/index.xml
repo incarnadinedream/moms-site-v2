@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Mom&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Nov 2019 10:07:42 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2019 15:07:42 +0000</lastBuildDate>
     
 	<atom:link href="https://incarnadinedream.github.io/moms-site-v2/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,11 @@
     <item>
       <title>My First Post</title>
       <link>https://incarnadinedream.github.io/moms-site-v2/posts/my-first-post/</link>
-      <pubDate>Thu, 14 Nov 2019 10:07:42 -0500</pubDate>
+      <pubDate>Thu, 14 Nov 2019 15:07:42 +0000</pubDate>
       
       <guid>https://incarnadinedream.github.io/moms-site-v2/posts/my-first-post/</guid>
-      <description>something written here</description>
+      <description> something written here even more content
+TESTING  a list another list item  </description>
     </item>
     
   </channel>
