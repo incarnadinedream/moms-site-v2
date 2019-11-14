@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mom&#39;s Site</title>
+    <link>https://incarnadinedream.github.io/moms-site-v2/posts/</link>
+    <description>Recent content in Posts on Mom&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Nov 2019 10:07:42 -0500</lastBuildDate>
+    
+	<atom:link href="https://incarnadinedream.github.io/moms-site-v2/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://incarnadinedream.github.io/moms-site-v2/posts/my-first-post/</link>
+      <pubDate>Thu, 14 Nov 2019 10:07:42 -0500</pubDate>
+      
+      <guid>https://incarnadinedream.github.io/moms-site-v2/posts/my-first-post/</guid>
+      <description>something written here</description>
+    </item>
+    
+  </channel>
+</rss>

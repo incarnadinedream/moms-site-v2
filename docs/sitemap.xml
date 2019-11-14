@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://incarnadinedream.github.io/moms-site-v2/</loc>
+    <lastmod>2019-11-14T10:07:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://incarnadinedream.github.io/moms-site-v2/posts/my-first-post/</loc>
+    <lastmod>2019-11-14T10:07:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://incarnadinedream.github.io/moms-site-v2/posts/</loc>
+    <lastmod>2019-11-14T10:07:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://incarnadinedream.github.io/moms-site-v2/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://incarnadinedream.github.io/moms-site-v2/tags/</loc>
+  </url>
+  
+</urlset>

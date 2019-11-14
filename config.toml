@@ -1,0 +1,5 @@
+baseURL = "https://incarnadinedream.github.io/moms-site-v2/"
+languageCode = "en-us"
+title = "Mom's Site"
+theme = "ananke"
+publishDir = "docs"
